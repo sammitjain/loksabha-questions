@@ -1,0 +1,135 @@
+Prime Minister's Office (PMO)
+Ministry of Agriculture and Farmers Welfare
+Department of Agriculture and Co-operation (AGRICOOP)
+Department of Agricultural Research and Education (DARE)
+Indian Council of Agricultural Research (ICAR)
+Ministry of AYUSH
+Ministry of Chemical and Fertilizers
+Department of Chemicals and Petrochemicals (DCPC)
+Department of Fertilizers (FERT)
+Department of Pharmaceuticals
+Ministry of Civil Aviation
+Ministry of Coal
+Ministry of Commerce and Industry
+Department of Commerce
+Department for Promotion of Industry and Internal Trade (DPIIT)
+Ministry of Consumer Affairs, Food and Public Distribution (DCA)
+Department of Consumer Affairs
+Department of Food and Public Distribution
+Ministry of Communications
+Department of Posts
+Department of Telecommunications (DOT)
+Ministry of Corporate Affairs (MCA)
+Ministry of Culture
+Ministry of Defence (MoD)
+Department of Defence
+Department of Defence Production
+Department of Ex-Servicemen Welfare
+Ministry of Development of North Eastern Region (DoNER)
+Ministry of Earth Sciences (MoES)
+India Meteorological Department (IMD)
+Ministry of Electronics and Information Technology (MEITY)
+Ministry of Environment, Forest and Climate Change (MoEFCC) 
+Ministry of External Affairs (MEA)
+Ministry of Finance (MoF)
+Department of Economic Affairs
+Department of Expenditure
+Department of Financial Services
+Department of Investment and Public Asset Management
+Department of Revenue
+Ministry of Fisheries, Animal Husbandry and Dairying
+Department of Animal Husbandry, Dairying & Fisheries (AH&D)
+Department of Fisheries
+Ministry of Fd Poorocessing Industries (MOFPI)
+Ministry of Health & Family Welfare (MoHFW)
+Department of Health and Family Welfare
+Department of Health Research, Ministry of Health & Family Welfare
+Ministry of Heavy Industries & Public Enterprises
+Department of Heavy Industry (DHI)
+Department of Public Enterprises (DPE)
+Ministry of Home Affairs (MHA)
+Ministry of Housing and Urban Affairs (MoHUA)
+Ministry of Education (MoE)
+Department of Higher Education
+Department of School Education and Literacy
+Ministry of Information and Broadcasting (Ministry of I&B)
+Ministry of Jal Shakti (MoWR)
+Department of Drinking Water and Sanitation
+Department of Water Resources, River Development and Ganga Rejuvenation
+Ministry of Labour & Employment
+Ministry of Law and Justice
+Department of Justice
+Department of Legal Affairs
+Legislative Department
+Ministry of Micro, Small and Medium Enterprises (MSME)
+Ministry of Mines
+Ministry of Minority Affairs
+Ministry of New and Renewable Energy (MNRE)
+Ministry of Panchayati Raj
+Ministry of Parliamentary Affairs (MPA)
+Ministry of Personnel, Public Grievances and Pension (PERSMIN)
+Department of Administrative Reforms and Public Grievances (DARPG)
+Department of Pension & Pensioner's Welfare
+Department of Personnel and Training
+Ministry of Petroleum and Natural Gas (MOP&NG)
+Ministry of Power
+Ministry of Railways
+Ministry of Railways
+Ministry of Rural Development
+Ministry of Science and Technology
+Department of Bio-Technology (DBT)
+Department of Science and Technology (DST)
+Department of Scientific and Industrial Research (DSIR)
+Ministry of Shipping
+Ministry of Skill Development and Entrepreneurship
+Ministry of Social Justice and Empowerment
+Department of Empowerment of Persons with Disabilities
+Ministry of Statistics and Programme Implementation (MoSPI)
+Ministry of Steel
+Ministry of Textiles (TEXMIN)
+Ministry of Tourism
+Ministry of Tribal Affairs
+Ministry of Women and Child Development
+Ministry of Youth Affairs and Sports
+Department of Sports
+Department of Youth Affairs
+Apex/Independent Offices
+Cabinet Secretariat
+Central Bureau of Investigation (CBI)
+Central Information Commission (CIC)
+Central Vigilance Commission (CVC)
+Comptroller and Auditor General (CAG) of India, Indian Audit and Accounts Department
+Election Commission of India (ECI)
+Fifteenth Finance Commission of India
+Insurance Regulatory and Development Authority (IRDA)
+National Commission for Minorities (NCM)
+National Human Rights Commission (NHRC), India
+NITI Aayog - National Institution for Transforming India
+National Commission for Women (NCW)
+National Commission for Scheduled Tribes (NCST)
+Office of the Principal Scientific Adviser
+President of India
+Telecom Regulatory Authority of India (TRAI)
+Union Public Service Commission (UPSC)
+Vice President of India
+Central Armed Police Forces
+Assam Rifles
+Border Security Force (BSF)
+Central Industrial Security Force (CISF)
+Central Reserve Police Force (CRPF)
+Directorate of Coordination Police Wireless
+Indo Tibetan Border Police (ITBP)
+National Security Guard (NSG)
+Sashastra Seema Bal (SSB)
+Central Police Organisation
+Bureau of Police Research and Development (BPR&D)
+National Institute of Criminology and Forensic Science (NICFS)
+National Investigation Agency (NIA)
+North Eastern Police Academy (NEPA)
+Sardar Vallabhbhai Patel National Police Academy
+Central Government (Independent Departments)
+Department of Atomic Energy (DAE)
+Department of Space
+Indian Space Research Organisation (ISRO)
+Judiciary
+Supreme Court of India

@@ -30,8 +30,26 @@ The goal of this project is to be able to answer the following questions (work i
 * How many questions were asked around a particular topic?
 * And many more combinations of these...
   
-## Origins + Observations
-* Sometimes, questions are clubbed, and therefore may list multiple asking members.
+## Origins
+* This dataset was compiled by parsing PDFs of session questions. Typical Oral and Written questions look like:
+
+<p align="center">
+  <img src="/doc/img/sample_oral.png" alt="Sample Page from List of Oral Questions in a Session" width=450/>
+  <img src="/doc/img/sample_written.png" alt="Sample Page from List of Oral Questions in a Session" width=450/>
+</p>
+
+## Why are there TWO .csv files in this dataset?
+
+* Sometimes, questions are clubbed, and therefore may list multiple asking members. For example, consider Q. 362 and Q. 4142 in the above screenshots.
+* Therefore, Multiple Members may ask a Single Question, and a Single Member may ask Multiple Questions.
+* This makes it harder to analyze questions - specifically operations like grouping / aggregating in a dataset.
+* This Many-to-Many relationship is typically addressed in Databases by means of a bridging table.
+* However, considering the scale of the problem, I decided to ship an augmented version of this database as well which is called `questions_flattened.csv` in addition to the `questions.csv` database. 
+* A quick look into the number of questions will better demonstrate the above explanation.
+  - Each session has 250 questions on record (20 starred + 230 unstarred).
+  - For 17 sessions, the total comes to **4250 questions**. This is why `questions.csv` has 4250 entries as of now.
+  - Some questions were asked by multiple members, so I replicated these questions for each asking Member of Parliament.
+  - This results in **7050 questions** after *flattening out* the questions - Hence, `questions_flattened.csv`
 
 
 ## NOTE: 

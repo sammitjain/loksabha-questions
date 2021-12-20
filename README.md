@@ -73,7 +73,7 @@ The goal of this project is to be able to answer the following questions (work i
   - For 17 sessions, the total comes to **4250 questions**. This is why `questions.csv` has 4250 entries as of now.
   - Some questions were asked by multiple members, so I replicated these questions for each asking Member of Parliament.
   - This results in **7050 questions** after *flattening out* the questions - Hence, `questions_flattened.csv`
-
+* Do you need both the files? In most cases, no. It's also easy to derive one from the other. Chances are that most analyses will use the flattened dataset. 
 
 ## NOTE: 
 * I do not own any of the associated data and is publicly available at http://loksabhaph.nic.in/Questions/questionlist.aspx as on December 15th, 2021. 

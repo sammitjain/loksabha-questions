@@ -38,6 +38,29 @@ The goal of this project is to be able to answer the following questions (work i
   <img src="/doc/img/sample_written.png" alt="Sample Page from List of Oral Questions in a Session" width=450/>
 </p>
 
+* These PDFs can be found on the [Official Lok Sabha Website](http://loksabhaph.nic.in/Questions/questionlist.aspx).
+* As a starting point for this Dataset, I'm using the Seventeenth (17th) Session of the Lok Sabha. Will continue to add more sessions regularly.
+* Parsing these PDFs is truly a challenge - a staggering amount of data to scrape, and an even more daunting number of typing inconsistencies to consider.
+* Mapping the Asking Member to an actual Member of Parliament was also a difficult task. For e.g., consider the following names:
+  - Shri Sunil Kumar Singh
+  - Shri S.K. Singh
+  - Shri Sunil Singh
+  - *Singh, Shri Sunil Kumar*
+  - Singh, Sunil Kumar
+  - Singh, Sunil K.
+* These are all valid ways to write a name. Which one do we stick to? I choose to go with the full name approach with Last Name, First Name. Fuzzy-matching of Indian names was a difficult task, but it worked out well, thanks mostly to [thefuzz](https://github.com/seatgeek/thefuzz).
+* Btw, interestingly, we currently have *FIVE* Shri Sunil Kumar's as MPs:
+
+
+| Member Name | Party | Constituency |
+| --- | --- | --- |
+| Mondal, Shri Sunil Kumar | All India Trinamool Congress	| Bardhaman Purba (SC)(West Bengal) |
+| Singh, Shri Sunil Kumar	| Bharatiya Janata Party	| Chatra (Jharkhand) |
+| Soni, Shri Sunil Kumar	| Bharatiya Janata Party	| Raipur (Chhattisgarh) |
+| Sunil Kumar Pintu, Shri	| Janata Dal (United)	| Sitamarhi (Bihar) |
+| Kumar, Shri Sunil	| Janata Dal (United)	| Valmiki Nagar (Bihar) |
+
+
 ## Why are there TWO .csv files in this dataset?
 
 * Sometimes, questions are clubbed, and therefore may list multiple asking members. For example, consider Q. 362 and Q. 4142 in the above screenshots.

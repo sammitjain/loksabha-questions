@@ -34,8 +34,8 @@ The goal of this project is to be able to answer the following questions (work i
 * This dataset was compiled by parsing PDFs of session questions. Typical Oral and Written questions look like:
 
 <p align="center">
-  <img src="/doc/img/sample_oral.png" alt="Sample Page from List of Oral Questions in a Session" width=450/>
-  <img src="/doc/img/sample_written.png" alt="Sample Page from List of Oral Questions in a Session" width=450/>
+  <img src="/doc/img/sample_oral.png" alt="Sample Page from List of Oral Questions in a Session" width=425/>
+  <img src="/doc/img/sample_written.png" alt="Sample Page from List of Oral Questions in a Session" width=425/>
 </p>
 
 * These PDFs can be found on the [Official Lok Sabha Website](http://loksabhaph.nic.in/Questions/questionlist.aspx).

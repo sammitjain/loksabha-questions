@@ -28,6 +28,7 @@ The goal of this project is to be able to answer the following questions (work i
 * What are the questions that were asked by an MP?
 * What are the questions being asked from a particular state?
 * How many questions were asked around a particular topic?
+* Trends in questions asked by the MPs and any correlation to their affiliations?
 * And many more combinations of these...
   
 ## Origins

@@ -1,0 +1,52 @@
+Prime Minister's Office (PMO)
+Ministry of Agriculture and Farmers Welfare
+Ministry of AYUSH
+Ministry of Chemical and Fertilizers
+Ministry of Civil Aviation
+Ministry of Coal
+Ministry of Commerce and Industry
+Ministry of Consumer Affairs, Food and Public Distribution (DCA)
+Ministry of Communications
+Ministry of Corporate Affairs (MCA)
+Ministry of Culture
+Ministry of Defence (MoD)
+Ministry of Development of North Eastern Region (DoNER)
+Ministry of Earth Sciences (MoES)
+Ministry of Electronics and Information Technology (MEITY)
+Ministry of Environment, Forest and Climate Change (MoEFCC) 
+Ministry of External Affairs (MEA)
+Ministry of Finance (MoF)
+Ministry of Fisheries, Animal Husbandry and Dairying
+Ministry of Food Processing Industries (MOFPI)
+Ministry of Health & Family Welfare (MoHFW)
+Ministry of Heavy Industries & Public Enterprises
+Ministry of Home Affairs (MHA)
+Ministry of Housing and Urban Affairs (MoHUA)
+Ministry of Education (MoE)
+Ministry of Information and Broadcasting (Ministry of I&B)
+Ministry of Jal Shakti (MoWR)
+Ministry of Labour & Employment
+Ministry of Law and Justice
+Ministry of Micro, Small and Medium Enterprises (MSME)
+Ministry of Mines
+Ministry of Minority Affairs
+Ministry of New and Renewable Energy (MNRE)
+Ministry of Panchayati Raj
+Ministry of Parliamentary Affairs (MPA)
+Ministry of Personnel, Public Grievances and Pension (PERSMIN)
+Ministry of Petroleum and Natural Gas (MOP&NG)
+Ministry of Power
+Ministry of Railways
+Ministry of Railways
+Ministry of Rural Development
+Ministry of Science and Technology
+Ministry of Shipping
+Ministry of Skill Development and Entrepreneurship
+Ministry of Social Justice and Empowerment
+Ministry of Statistics and Programme Implementation (MoSPI)
+Ministry of Steel
+Ministry of Textiles (TEXMIN)
+Ministry of Tourism
+Ministry of Tribal Affairs
+Ministry of Women and Child Development
+Ministry of Youth Affairs and Sports

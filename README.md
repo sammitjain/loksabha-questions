@@ -6,7 +6,7 @@
 
 Questions asked in the Lok Sabha - collection and analysis of trends. Creating the dataset from scratch. Check out [this link](https://youthincmag.com/explained-question-hour-and-zero-hour-parliamentary-proceedings) for a quick explanation of how the Question Hour works in the Lok Sabha.
 
-The eventual goal of this repo is a complete analysis of the questions asked in the Lok Sabha (House of the People - lower house of the Indian Parliament). As of writing this readme, the December 2021 session is in progress, and the dataset I've put together has 4250 questions from 1st December 2021 to 23rd December 2021.
+The eventual goal of this repo is a complete analysis of the questions asked in the Lok Sabha (House of the People - lower house of the Indian Parliament). As of writing this readme, the VIIth session is in progress, and the dataset I've put together has 4750 questions from 29th November 2021 to 23rd December 2021.
 
 Each question has the following information:
 | Field | Description |

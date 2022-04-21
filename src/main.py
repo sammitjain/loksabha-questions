@@ -1,5 +1,4 @@
 import re
-
 import pandas as pd
 from py_pdf_parser.loaders import load_file
 from thefuzz import process, fuzz
@@ -352,7 +351,6 @@ def finalize_datasets(questions_raw):
 
 if __name__ == '__main__':
     questions_raw = []
-    # session_dates = ["29112021"]
     session_dates = ["29112021", "30112021", "01122021", "02122021", "03122021",
                      "06122021", "07122021", "08122021", "09122021", "10122021",
                      "13122021", "14122021", "15122021", "16122021", "17122021",

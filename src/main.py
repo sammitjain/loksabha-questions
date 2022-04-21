@@ -240,7 +240,7 @@ def identify_starred_unstarred_range(document):
 
 def parse_pdf_questions(session_date):
     questions = []
-    path_to_questions_pdf = f"/Users/sammit/Desktop/loksabha-questions/data/loksabha-questions/{session_date}.pdf"
+    path_to_questions_pdf = f"../data/loksabha-questions/{session_date}.pdf"
     document = load_file(path_to_questions_pdf, element_ordering=column_ordering_function)
 
     # starred_index, unstarred_index = identify_indexes(document)
@@ -258,19 +258,19 @@ def parse_pdf_questions(session_date):
 
 
 def augment_member_data(questions):
-    members_list_curated_file = "data/loksabha_members_curated.p"
+    members_list_curated_file = "../data/loksabha_members_curated.p"
     f = open(members_list_curated_file, 'rb')
     members_list_curated = pickle.load(f)
     f.close()
 
     fuzzy_choices = [member[0] for member in members_list_curated]
 
-    members_list_fuzzy_file = "data/loksabha_members_fuzzy.p"
+    members_list_fuzzy_file = "../data/loksabha_members_fuzzy.p"
     f = open(members_list_fuzzy_file, 'rb')
     members_fuzzy_dict = pickle.load(f)
     f.close()
 
-    members_info_dict_file = "/Users/sammit/Desktop/loksabha-questions/data/member_info_lookup.p"
+    members_info_dict_file = "../data/member_info_lookup.p"
     f = open(members_info_dict_file, 'rb')
     members_info_dict = pickle.load(f)
     f.close()

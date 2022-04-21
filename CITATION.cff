@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this dataset and associated code, please cite it as below."
+authors:
+- family-names: "Jain"
+  given-names: "Sammit"
+  orcid: "https://orcid.org/0000-0001-5963-6095"
+title: "Lok Sabha (India) Questions - Dataset and Analysis"
+version: 1.0.0
+date-released: 2022-04-21
+url: "https://github.com/sammitjain/loksabha-questions"

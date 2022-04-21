@@ -10,8 +10,9 @@ from py_pdf_parser.visualise import visualise
 
 def column_ordering_function(elements):
     """
-    The first entry in the key is False for column 1, and Tru for column 2. The second
-    and third keys just give left to right, top to bottom.
+    This function helps account for the ordering of text on the PDF.
+    The first entry in the key is False for column 1, and True for column 2.
+    The second and third keys just give left to right, top to bottom.
     """
     return sorted(elements, key=lambda elem: (elem.x0 > 300, -elem.y0, elem.x0))
 

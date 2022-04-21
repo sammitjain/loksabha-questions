@@ -17,10 +17,20 @@ def column_ordering_function(elements):
 
 
 def get_text(element_list):
+    """
+    Given a list of PDF elements, this function concatenates all the elements
+    in sequence and outputs a string"
+    """
     return " ".join(e.text() for e in element_list)
 
 
 def clean_body_text(text):
+    """
+    Parsed question body text often needs to be cleaned. So far I'm removing
+    footers, unnecessary metadata, non-ascii characters, newline characters,
+    extra spaces and information that may not necessarily be a part of the
+    body of the question
+    """
     text = re.sub("_+", " ", text)          # remove footer line
     text = re.sub(" .*Hindi", " ", text)    # remove language notice text
     text = text.encode("ascii", "ignore").decode()  # remove non-ascii characters
@@ -90,6 +100,9 @@ def identify_question_topic(question_topic):
 
 
 def identify_will_the(qc):
+    """
+    Identifies the section of the question that typically starts with "Will the"
+    """
     question_will_the = qc.filter_by_regex("Will\s+the\s+Minister\s+of")
     if len(question_will_the) == 0:
         question_will_the = qc.filter_by_regex("Will\s+the\s+")
